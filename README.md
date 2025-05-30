@@ -1,4 +1,4 @@
-APISearchBar(Countries)
+APISearchBar (Countries)
 
 1. Description
 
